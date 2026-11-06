@@ -9,3 +9,4 @@ Affordability and Value: Explore how tuition costs relate to practical postgradu
 By building a highly optimized, light-weight dataset, this notebook serves as the core data preparation and exploratory phase for our final interactive dashboard.
 
 https://yqmtluc6aauqhsz2iymo96.streamlit.app/
+**Vibe Coding was partially used in this project**
